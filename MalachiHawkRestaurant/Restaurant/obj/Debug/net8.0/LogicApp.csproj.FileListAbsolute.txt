@@ -1,0 +1,56 @@
+C:/Users/Admin/source/repos/LogicApp/LogicApp/bin/Debug/net8.0/LogicApp.exe
+C:/Users/Admin/source/repos/LogicApp/LogicApp/bin/Debug/net8.0/LogicApp.deps.json
+C:/Users/Admin/source/repos/LogicApp/LogicApp/bin/Debug/net8.0/LogicApp.runtimeconfig.json
+C:/Users/Admin/source/repos/LogicApp/LogicApp/bin/Debug/net8.0/LogicApp.dll
+C:/Users/Admin/source/repos/LogicApp/LogicApp/bin/Debug/net8.0/LogicApp.pdb
+C:/Users/Admin/source/repos/LogicApp/LogicApp/obj/Debug/net8.0/LogicApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Admin/source/repos/LogicApp/LogicApp/obj/Debug/net8.0/LogicApp.AssemblyInfoInputs.cache
+C:/Users/Admin/source/repos/LogicApp/LogicApp/obj/Debug/net8.0/LogicApp.AssemblyInfo.cs
+C:/Users/Admin/source/repos/LogicApp/LogicApp/obj/Debug/net8.0/LogicApp.csproj.CoreCompileInputs.cache
+C:/Users/Admin/source/repos/LogicApp/LogicApp/obj/Debug/net8.0/LogicApp.dll
+C:/Users/Admin/source/repos/LogicApp/LogicApp/obj/Debug/net8.0/refint/LogicApp.dll
+C:/Users/Admin/source/repos/LogicApp/LogicApp/obj/Debug/net8.0/LogicApp.pdb
+C:/Users/Admin/source/repos/LogicApp/LogicApp/obj/Debug/net8.0/LogicApp.genruntimeconfig.cache
+C:/Users/Admin/source/repos/LogicApp/LogicApp/obj/Debug/net8.0/ref/LogicApp.dll
+/Users/mhawk/Downloads/LogicApp 3/LogicApp/bin/Debug/net8.0/LogicApp
+/Users/mhawk/Downloads/LogicApp 3/LogicApp/bin/Debug/net8.0/LogicApp.deps.json
+/Users/mhawk/Downloads/LogicApp 3/LogicApp/bin/Debug/net8.0/LogicApp.runtimeconfig.json
+/Users/mhawk/Downloads/LogicApp 3/LogicApp/bin/Debug/net8.0/LogicApp.dll
+/Users/mhawk/Downloads/LogicApp 3/LogicApp/bin/Debug/net8.0/LogicApp.pdb
+/Users/mhawk/Downloads/LogicApp 3/LogicApp/obj/Debug/net8.0/LogicApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mhawk/Downloads/LogicApp 3/LogicApp/obj/Debug/net8.0/LogicApp.AssemblyInfoInputs.cache
+/Users/mhawk/Downloads/LogicApp 3/LogicApp/obj/Debug/net8.0/LogicApp.AssemblyInfo.cs
+/Users/mhawk/Downloads/LogicApp 3/LogicApp/obj/Debug/net8.0/LogicApp.csproj.CoreCompileInputs.cache
+/Users/mhawk/Downloads/LogicApp 3/LogicApp/obj/Debug/net8.0/LogicApp.dll
+/Users/mhawk/Downloads/LogicApp 3/LogicApp/obj/Debug/net8.0/refint/LogicApp.dll
+/Users/mhawk/Downloads/LogicApp 3/LogicApp/obj/Debug/net8.0/LogicApp.pdb
+/Users/mhawk/Downloads/LogicApp 3/LogicApp/obj/Debug/net8.0/LogicApp.genruntimeconfig.cache
+/Users/mhawk/Downloads/LogicApp 3/LogicApp/obj/Debug/net8.0/ref/LogicApp.dll
+/Users/mhawk/Downloads/CSharpStuff/LogicApp 3/LogicApp/bin/Debug/net8.0/LogicApp
+/Users/mhawk/Downloads/CSharpStuff/LogicApp 3/LogicApp/bin/Debug/net8.0/LogicApp.deps.json
+/Users/mhawk/Downloads/CSharpStuff/LogicApp 3/LogicApp/bin/Debug/net8.0/LogicApp.runtimeconfig.json
+/Users/mhawk/Downloads/CSharpStuff/LogicApp 3/LogicApp/bin/Debug/net8.0/LogicApp.dll
+/Users/mhawk/Downloads/CSharpStuff/LogicApp 3/LogicApp/bin/Debug/net8.0/LogicApp.pdb
+/Users/mhawk/Downloads/CSharpStuff/LogicApp 3/LogicApp/obj/Debug/net8.0/LogicApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mhawk/Downloads/CSharpStuff/LogicApp 3/LogicApp/obj/Debug/net8.0/LogicApp.AssemblyInfoInputs.cache
+/Users/mhawk/Downloads/CSharpStuff/LogicApp 3/LogicApp/obj/Debug/net8.0/LogicApp.AssemblyInfo.cs
+/Users/mhawk/Downloads/CSharpStuff/LogicApp 3/LogicApp/obj/Debug/net8.0/LogicApp.csproj.CoreCompileInputs.cache
+/Users/mhawk/Downloads/CSharpStuff/LogicApp 3/LogicApp/obj/Debug/net8.0/LogicApp.dll
+/Users/mhawk/Downloads/CSharpStuff/LogicApp 3/LogicApp/obj/Debug/net8.0/refint/LogicApp.dll
+/Users/mhawk/Downloads/CSharpStuff/LogicApp 3/LogicApp/obj/Debug/net8.0/LogicApp.pdb
+/Users/mhawk/Downloads/CSharpStuff/LogicApp 3/LogicApp/obj/Debug/net8.0/LogicApp.genruntimeconfig.cache
+/Users/mhawk/Downloads/CSharpStuff/LogicApp 3/LogicApp/obj/Debug/net8.0/ref/LogicApp.dll
+/Users/mhawk/Downloads/CSharpStuff/MalachiHawkRestaurant/Restaurant/bin/Debug/net8.0/LogicApp
+/Users/mhawk/Downloads/CSharpStuff/MalachiHawkRestaurant/Restaurant/bin/Debug/net8.0/LogicApp.deps.json
+/Users/mhawk/Downloads/CSharpStuff/MalachiHawkRestaurant/Restaurant/bin/Debug/net8.0/LogicApp.runtimeconfig.json
+/Users/mhawk/Downloads/CSharpStuff/MalachiHawkRestaurant/Restaurant/bin/Debug/net8.0/LogicApp.dll
+/Users/mhawk/Downloads/CSharpStuff/MalachiHawkRestaurant/Restaurant/bin/Debug/net8.0/LogicApp.pdb
+/Users/mhawk/Downloads/CSharpStuff/MalachiHawkRestaurant/Restaurant/obj/Debug/net8.0/LogicApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mhawk/Downloads/CSharpStuff/MalachiHawkRestaurant/Restaurant/obj/Debug/net8.0/LogicApp.AssemblyInfoInputs.cache
+/Users/mhawk/Downloads/CSharpStuff/MalachiHawkRestaurant/Restaurant/obj/Debug/net8.0/LogicApp.AssemblyInfo.cs
+/Users/mhawk/Downloads/CSharpStuff/MalachiHawkRestaurant/Restaurant/obj/Debug/net8.0/LogicApp.csproj.CoreCompileInputs.cache
+/Users/mhawk/Downloads/CSharpStuff/MalachiHawkRestaurant/Restaurant/obj/Debug/net8.0/LogicApp.dll
+/Users/mhawk/Downloads/CSharpStuff/MalachiHawkRestaurant/Restaurant/obj/Debug/net8.0/refint/LogicApp.dll
+/Users/mhawk/Downloads/CSharpStuff/MalachiHawkRestaurant/Restaurant/obj/Debug/net8.0/LogicApp.pdb
+/Users/mhawk/Downloads/CSharpStuff/MalachiHawkRestaurant/Restaurant/obj/Debug/net8.0/LogicApp.genruntimeconfig.cache
+/Users/mhawk/Downloads/CSharpStuff/MalachiHawkRestaurant/Restaurant/obj/Debug/net8.0/ref/LogicApp.dll
